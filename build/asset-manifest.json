@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f65b0b3e.chunk.css",
+    "main.js": "/static/js/main.dac66a60.chunk.js",
+    "main.js.map": "/static/js/main.dac66a60.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.518c91a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.518c91a0.js.map",
+    "static/css/2.0f8f7d62.chunk.css": "/static/css/2.0f8f7d62.chunk.css",
+    "static/js/2.56bb7965.chunk.js": "/static/js/2.56bb7965.chunk.js",
+    "static/js/2.56bb7965.chunk.js.map": "/static/js/2.56bb7965.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0f8f7d62.chunk.css.map": "/static/css/2.0f8f7d62.chunk.css.map",
+    "static/css/main.f65b0b3e.chunk.css.map": "/static/css/main.f65b0b3e.chunk.css.map",
+    "static/js/2.56bb7965.chunk.js.LICENSE.txt": "/static/js/2.56bb7965.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/static/media/gaxon.9f281cc5.eot",
+    "static/media/notifications.css": "/static/media/notification.c5d9251e.ttf",
+    "static/media/sprite-flags-24x24.css": "/static/media/sprite-flags-24x24.6bd080ea.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.518c91a0.js",
+    "static/css/2.0f8f7d62.chunk.css",
+    "static/js/2.56bb7965.chunk.js",
+    "static/css/main.f65b0b3e.chunk.css",
+    "static/js/main.dac66a60.chunk.js"
+  ]
+}
